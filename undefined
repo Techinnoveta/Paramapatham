@@ -1,0 +1,266 @@
+[2018-11-27 15:36:50.242] [Info] Initializing AnalyticsBroker.
+[2018-11-27 15:36:51.004] [Info] analytics-broker-process will send BrokerReadyToReceive message
+[2018-11-27 15:36:51.024] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:36:52.717] [Info] Initializing Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 15:36:52.717] [Info] Successfully initialized Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 15:36:52.755] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:36:52.758] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:36:52.764] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:36:52.767] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:36:52.770] [Info] Setting custom dimension cd4 to value 7325b0c6-3a16-46de-b623-bffa052feaf0
+[2018-11-27 15:36:52.774] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:36:53.415] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 15:37:05.079] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:37:05.099] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:37:05.105] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:37:05.110] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:37:05.117] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:37:05.122] [Info] Setting custom dimension cd4 to value 2a17178a-b585-48ad-a7da-aaa09b5f83ec
+[2018-11-27 15:37:05.125] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:37:05.137] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:37:05.142] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:37:05.163] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Warnings:The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android.__WARNING: adb from the Android SDK is not installed or is not configured properly. __WARNING: The Android SDK is not installed or is not configured properly.__Cannot find a compatible Android SDK for compilation. To be able to build for Android, install Android SDK 28 or later.__You need to have the Android SDK Build-tools installed on your system. You can install any version in the following range: '>=23 <=28'.', value: 'undefined' attached page: undefined.
+[2018-11-27 15:37:05.182] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:37:05.185] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:37:05.188] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:37:05.191] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:37:05.194] [Info] Setting custom dimension cd4 to value e5680665-5a05-4a71-b2c3-a0cebd7c6c5f
+[2018-11-27 15:37:05.200] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:37:05.225] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Finished: Is setup correct: false', value: 'undefined' attached page: undefined.
+[2018-11-27 15:37:05.240] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:37:05.242] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:37:05.247] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:37:05.251] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:37:05.255] [Info] Setting custom dimension cd4 to value f2dcb473-7864-4eb1-9179-1e9f326492bb
+[2018-11-27 15:37:05.258] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:37:05.281] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User should select: You are missing the nativescript-cloud extension and you will not be able to execute cloud builds. Your environment is not configured properly and you will not be able to execute local builds. To continue, choose one of the following options:  
+Select "Sync to Playground" to enjoy NativeScript without any local setup. All you need is a couple of companion apps installed on your devices.
+Select "Configure for Cloud Builds" to install the nativescript-cloud extension and automatically configure your environment for cloud builds.
+Select "Configure for Local Builds" to run the setup script and automatically configure your environment for local builds.
+Select "Configure for Both Local and Cloud Builds" to automatically configure your environment for both options.
+Select "Configure for Both Local and Cloud Builds" to automatically configure your environment for both options.', value: 'undefined' attached page: undefined.
+[2018-11-27 15:38:24.348] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:38:24.363] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:38:24.363] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:38:24.363] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:38:24.379] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:38:24.379] [Info] Setting custom dimension cd4 to value 603640d2-6a70-4a70-bc2b-e4b94efdb835
+[2018-11-27 15:38:24.379] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:38:24.410] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User selected: Configure for Both Local and Cloud Builds', value: 'undefined' attached page: undefined.
+[2018-11-27 15:39:18.544] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 15:39:18.555] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 15:39:18.555] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 15:39:18.570] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 15:39:18.570] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 15:39:18.570] [Info] Setting custom dimension cd4 to value c78a7e97-a144-4135-9b05-e584e0442875
+[2018-11-27 15:39:18.570] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 15:39:18.609] [Info] Tracked event with category: 'CLI', action: 'Run Setup Script', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:51:54.586] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:51:54.617] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:51:54.617] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:51:54.617] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:51:54.617] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:51:54.617] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:51:54.633] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:51:54.633] [Info] Setting custom dimension cd4 to value e3c127b8-8535-427c-80e6-7ee297055c4a
+[2018-11-27 16:51:54.633] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:51:54.648] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:51:54.664] [Info] analytics-broker-process received message of type: exception
+[2018-11-27 16:51:54.664] [Info] analytics-broker-process received message of type: finish
+[2018-11-27 16:51:54.679] [Info] analytics-broker-process finish tracking started, sentFinishMsg: false, receivedFinishMsg: true
+[2018-11-27 16:51:54.679] [Info] analytics-broker-process received process.disconnect event
+[2018-11-27 16:51:54.695] [Info] analytics-broker-process finish tracking started, sentFinishMsg: true, receivedFinishMsg: true
+[2018-11-27 16:51:54.695] [Info] Tracked event with category: 'CLI', action: 'Run Setup Script', label: 'Finished', value: 'undefined' attached page: undefined.
+[2018-11-27 16:51:54.695] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:51:54.695] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:51:54.711] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:51:54.711] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:51:54.711] [Info] Setting custom dimension cd4 to value 11a12ea6-917c-4249-a2b1-98b21a01c3c5
+[2018-11-27 16:51:54.711] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:51:54.726] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:51:54.742] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:51:54.742] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:51:54.742] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:51:54.742] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:51:54.742] [Info] Setting custom dimension cd4 to value bbc4ad5b-4dfa-48a7-b149-15c224d157c9
+[2018-11-27 16:51:54.758] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:51:54.773] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Warnings:The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android.__WARNING: adb from the Android SDK is not installed or is not configured properly. __WARNING: The Android SDK is not installed or is not configured properly.__Cannot find a compatible Android SDK for compilation. To be able to build for Android, install Android SDK 28 or later.__You need to have the Android SDK Build-tools installed on your system. You can install any version in the following range: '>=23 <=28'.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd4 to value c8cf28f1-6c2c-4d5c-8f82-74c57cbe73c1
+[2018-11-27 16:51:54.789] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:51:54.825] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Finished: Is setup correct: false', value: 'undefined' attached page: undefined.
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd4 to value 4e888dca-d405-4c7c-b642-445a612bfebc
+[2018-11-27 16:51:54.831] [Info] Setting custom dimension cd5 to value Unknown
+[2018-11-27 16:51:54.831] [Info] analytics-broker-process tracking finished
+[2018-11-27 16:52:49.654] [Info] Initializing AnalyticsBroker.
+[2018-11-27 16:52:50.279] [Info] analytics-broker-process will send BrokerReadyToReceive message
+[2018-11-27 16:52:50.294] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:52:51.152] [Info] Initializing Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 16:52:51.158] [Info] Successfully initialized Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 16:52:51.180] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:52:51.180] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:52:51.180] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:52:51.180] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:52:51.180] [Info] Setting custom dimension cd4 to value 8b5e2e47-c75f-438b-bc4e-79331935a313
+[2018-11-27 16:52:51.196] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:52:51.795] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:04.194] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:04.213] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:04.217] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:04.223] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:04.229] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:04.235] [Info] Setting custom dimension cd4 to value dc1de0bd-1d4a-4d92-a0f2-ae974ae91d4c
+[2018-11-27 16:53:04.238] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:04.255] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:04.263] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:04.299] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Warnings:The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android.__WARNING: adb from the Android SDK is not installed or is not configured properly. __WARNING: The Android SDK is not installed or is not configured properly.__Cannot find a compatible Android SDK for compilation. To be able to build for Android, install Android SDK 28 or later.__You need to have the Android SDK Build-tools installed on your system. You can install any version in the following range: '>=23 <=28'.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:04.346] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:04.349] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:04.352] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:04.355] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:04.363] [Info] Setting custom dimension cd4 to value 13750eaf-4670-402a-acec-7e28cb31c7c7
+[2018-11-27 16:53:04.367] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:04.400] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Finished: Is setup correct: false', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:04.427] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:04.433] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:04.436] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:04.439] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:04.442] [Info] Setting custom dimension cd4 to value 583b316e-e26e-4a91-be99-ab3da2529ec5
+[2018-11-27 16:53:04.446] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:04.492] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User should select: You have nativescript-cloud extension installed, so you can execute cloud builds, but your environment is not configured properly and you will not be able to execute local builds. To continue, choose one of the following options: 
+Select "Sync to Playground" to enjoy NativeScript without any local setup. All you need is a couple of companion apps installed on your devices.
+Select "Configure for Local Builds" to run the setup script and automatically configure your environment for local builds.
+Select "Skip Step and Configure Manually" to disregard this option and install any required components manually.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:13.548] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:13.563] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:13.563] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:13.579] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:13.579] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:13.579] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:13.594] [Info] Setting custom dimension cd4 to value 5f291a7e-3991-4246-a5a2-55abe52340d9
+[2018-11-27 16:53:13.594] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:13.626] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User selected: Configure for Local Builds', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:13.641] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:13.657] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:13.657] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:13.657] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:13.657] [Info] Setting custom dimension cd4 to value 03bb1a83-d756-4385-b2af-3dd8fbb84ff6
+[2018-11-27 16:53:13.657] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:13.719] [Info] Tracked event with category: 'CLI', action: 'Run Setup Script', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:29.140] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:29.140] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:29.140] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:29.155] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:29.171] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:29.171] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:29.171] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:29.186] [Info] Setting custom dimension cd4 to value 975505cd-bcd3-420c-a3f0-4f1024e5cc23
+[2018-11-27 16:53:29.186] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:29.186] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:29.202] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:29.218] [Info] Tracked event with category: 'CLI', action: 'Run Setup Script', label: 'Finished', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:29.247] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:29.250] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:29.256] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:29.260] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:29.264] [Info] Setting custom dimension cd4 to value a4833382-5c6f-442e-93de-34b850937775
+[2018-11-27 16:53:29.267] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:29.286] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:29.301] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:29.301] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:29.317] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:29.317] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:29.317] [Info] Setting custom dimension cd4 to value 59d31f78-aaf9-4fdc-be0f-1567fec28de0
+[2018-11-27 16:53:29.317] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:29.396] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Warnings:The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android.__WARNING: adb from the Android SDK is not installed or is not configured properly. __WARNING: The Android SDK is not installed or is not configured properly.__Cannot find a compatible Android SDK for compilation. To be able to build for Android, install Android SDK 28 or later.__You need to have the Android SDK Build-tools installed on your system. You can install any version in the following range: '>=23 <=28'.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:29.399] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:29.399] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:29.414] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:29.414] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:29.414] [Info] Setting custom dimension cd4 to value 056560cc-4330-498e-9deb-12b226f2817e
+[2018-11-27 16:53:29.414] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:29.445] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Finished: Is setup correct: false', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:29.461] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:29.461] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:29.461] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:29.461] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:29.461] [Info] Setting custom dimension cd4 to value a56abfb8-3185-4677-8ada-913b9aa422ab
+[2018-11-27 16:53:29.477] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:29.492] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User should select: The setup script was not able to configure your environment for local builds. To execute local builds, you have to set up your environment manually. Please consult our setup instructions here 'https://docs.nativescript.org/start/quick-setup'.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:32.001] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:32.001] [Info] analytics-broker-process received message of type: exception
+[2018-11-27 16:53:32.017] [Info] analytics-broker-process received message of type: finish
+[2018-11-27 16:53:32.017] [Info] analytics-broker-process finish tracking started, sentFinishMsg: false, receivedFinishMsg: true
+[2018-11-27 16:53:32.017] [Info] analytics-broker-process received process.disconnect event
+[2018-11-27 16:53:32.017] [Info] analytics-broker-process finish tracking started, sentFinishMsg: true, receivedFinishMsg: true
+[2018-11-27 16:53:32.032] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:32.032] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:32.032] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:32.048] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:32.048] [Info] Setting custom dimension cd4 to value 3295d3ee-1bfa-4889-9604-83e2eec13dc3
+[2018-11-27 16:53:32.048] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:32.079] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User selected: Try Cloud Operation', value: 'undefined' attached page: undefined.
+[2018-11-27 16:53:32.105] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:32.108] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:32.111] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:32.114] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:32.117] [Info] Setting custom dimension cd4 to value e617fba2-1716-4447-967e-a440ce9d8bbf
+[2018-11-27 16:53:32.121] [Info] Setting custom dimension cd5 to value Unknown
+[2018-11-27 16:53:32.125] [Info] analytics-broker-process tracking finished
+[2018-11-27 16:53:49.836] [Info] Initializing AnalyticsBroker.
+[2018-11-27 16:53:50.516] [Info] analytics-broker-process will send BrokerReadyToReceive message
+[2018-11-27 16:53:50.547] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:53:52.103] [Info] Initializing Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 16:53:52.103] [Info] Successfully initialized Google Analytics visitor for id: UA-111455-44 with clientId: 101463a2-7cdb-46f4-972d-2aeb3ab6d13d.
+[2018-11-27 16:53:52.134] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:53:52.134] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:53:52.134] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:53:52.134] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:53:52.134] [Info] Setting custom dimension cd4 to value 7dc04bd8-6003-47be-af61-2b915dd3fe88
+[2018-11-27 16:53:52.150] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:53:52.772] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Starting', value: 'undefined' attached page: undefined.
+[2018-11-27 16:54:02.153] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:54:02.168] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:54:02.168] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:54:02.168] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:54:02.184] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:54:02.184] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:54:02.184] [Info] Setting custom dimension cd4 to value 6a338636-1288-4462-8e8b-ce212ddf95e3
+[2018-11-27 16:54:02.200] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:54:02.200] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:54:02.231] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Warnings:The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You will not be able to perform any build-related operations for Android.__WARNING: adb from the Android SDK is not installed or is not configured properly. __WARNING: The Android SDK is not installed or is not configured properly.__Cannot find a compatible Android SDK for compilation. To be able to build for Android, install Android SDK 28 or later.__You need to have the Android SDK Build-tools installed on your system. You can install any version in the following range: '>=23 <=28'.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:54:02.247] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:54:02.247] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:54:02.247] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:54:02.247] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:54:02.262] [Info] Setting custom dimension cd4 to value 2c952222-b339-427c-9ca4-05af0c645cf8
+[2018-11-27 16:54:02.262] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:54:02.293] [Info] Tracked event with category: 'CLI', action: 'Check Local Build Setup', label: 'Finished: Is setup correct: false', value: 'undefined' attached page: undefined.
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd4 to value 46d7f47e-2a29-4678-8845-9813f4aff33a
+[2018-11-27 16:54:02.309] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:54:02.340] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User should select: You have nativescript-cloud extension installed, so you can execute cloud builds, but your environment is not configured properly and you will not be able to execute local builds. To continue, choose one of the following options: 
+Select "Sync to Playground" to enjoy NativeScript without any local setup. All you need is a couple of companion apps installed on your devices.
+Select "Configure for Local Builds" to run the setup script and automatically configure your environment for local builds.
+Select "Skip Step and Configure Manually" to disregard this option and install any required components manually.', value: 'undefined' attached page: undefined.
+[2018-11-27 16:54:47.972] [Info] analytics-broker-process received message of type: googleAnalyticsData
+[2018-11-27 16:54:48.003] [Info] Setting custom dimension cd1 to value 5.1.0-2018-11-23-12645
+[2018-11-27 16:54:48.003] [Info] Setting custom dimension cd6 to value v8.11.2
+[2018-11-27 16:54:48.019] [Info] Setting custom dimension cd3 to value 101463a2-7cdb-46f4-972d-2aeb3ab6d13d
+[2018-11-27 16:54:48.019] [Info] Setting custom dimension cd2 to value null
+[2018-11-27 16:54:48.032] [Info] Setting custom dimension cd4 to value 90ed3310-d375-4500-85c2-936c24e4819f
+[2018-11-27 16:54:48.040] [Info] Setting custom dimension cd5 to value CLI
+[2018-11-27 16:54:48.062] [Info] Tracked event with category: 'CLI', action: 'Check Environment Requirements', label: 'User selected: Sync to Playground', value: 'undefined' attached page: undefined.
+[2018-11-27 16:54:50.845] [Info] analytics-broker-process received process.disconnect event
+[2018-11-27 16:54:50.848] [Info] analytics-broker-process finish tracking started, sentFinishMsg: false, receivedFinishMsg: false
+[2018-11-27 16:54:51.871] [Info] analytics-broker-process tracking finished
